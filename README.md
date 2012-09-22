@@ -1,0 +1,1 @@
+A simple script adapted from https://gist.github.com/2234957 that will colorize your maven console output. Simply add this script to your bash init scripts or call it manually and use mvn as normal.
